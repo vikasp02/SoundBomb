@@ -1,7 +1,7 @@
 # SoundBomb
 **SoundBomb is a music player app with a visualizer effect.**
 
-**Demo**
+**Demo Video**
 
 https://user-images.githubusercontent.com/78472356/120123483-c060f180-c1cc-11eb-9dee-d768c9f82b87.mp4
 
