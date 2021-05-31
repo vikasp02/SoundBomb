@@ -1,4 +1,5 @@
 # SoundBomb
+<img src="SoundBomb/luke-chesser-B_oL3jEt5L4-unsplash.jpg" width="250">
 
 **Demo**
 
